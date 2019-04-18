@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: taglibs:standard:${standard.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/taglibs/standard/${standard.version}/standard-${standard.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/taglibs/standard/${standard.version}/standard-${standard.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/taglibs/standard/${standard.version}/standard-${standard.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="System-FrontendApi" />
+        <module name="System-Bean" />
+        <module name="System-ManagerApi" />
+        <module name="System-ManagerImpl" />
+        <module name="System-Web" />
+        <module name="System-Common" />
+        <module name="System-FrontendImpl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="System-Bean" target="1.5" />
+      <module name="System-Common" target="1.5" />
+      <module name="System-FrontendApi" target="1.5" />
+      <module name="System-FrontendImpl" target="1.5" />
+      <module name="System-ManagerApi" target="1.5" />
+      <module name="System-ManagerImpl" target="1.5" />
+      <module name="System-Root" target="1.5" />
+      <module name="System-Web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

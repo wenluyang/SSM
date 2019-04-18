@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="System-Web:war">
+    <output-path>$PROJECT_DIR$/System-Web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>System-Web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="System-Web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="System-Web:war exploded" />
+    </root>
+  </artifact>
+</component>

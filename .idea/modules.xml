@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/System-Bean/System-Bean.iml" filepath="$PROJECT_DIR$/System-Bean/System-Bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System-Common/System-Common.iml" filepath="$PROJECT_DIR$/System-Common/System-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System-FrontendApi/System-FrontendApi.iml" filepath="$PROJECT_DIR$/System-FrontendApi/System-FrontendApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System-FrontendImpl/System-FrontendImpl.iml" filepath="$PROJECT_DIR$/System-FrontendImpl/System-FrontendImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System-ManagerApi/System-ManagerApi.iml" filepath="$PROJECT_DIR$/System-ManagerApi/System-ManagerApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System-ManagerImpl/System-ManagerImpl.iml" filepath="$PROJECT_DIR$/System-ManagerImpl/System-ManagerImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System-Root/System-Root.iml" filepath="$PROJECT_DIR$/System-Root/System-Root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System-Web/System-Web.iml" filepath="$PROJECT_DIR$/System-Web/System-Web.iml" />
+    </modules>
+  </component>
+</project>
